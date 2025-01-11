@@ -23,7 +23,7 @@ for (const file of commandFiles) {
 // Bot hazır olduğunda
 client.once('ready', () => {
     console.log(`${client.user.tag} aktif! 🚀`);
-    client.user.setActivity('arkadaşlarla 🎮', { type: 'PLAYING' });
+    client.user.setActivity('2ELATES', { type: 'LISTENING' });
 });
 
 // Hata yakalama
